@@ -1,0 +1,8 @@
+---
+title: "DV-Assignment1-GroupX-PartB.Rmd"
+output: html_document
+date: "2025-10-01"
+---
+A. Specify your research question
+
+C. Make your first visualization
