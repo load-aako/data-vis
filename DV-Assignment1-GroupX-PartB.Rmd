@@ -6,3 +6,5 @@ date: "2025-10-01"
 A. Specify your research question
 
 C. Make your first visualization
+
+D. secret third thing
