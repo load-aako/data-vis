@@ -4,5 +4,12 @@ output: html_document
 date: "2025-10-01"
 ---
 A. Specify your research question
+- Does your project take an analytical, inference, or predictive approach? Is it clear what is expected in the final data visualization with regards to the approach?
+- Who is your target audience? How might this influence choices for your final visualization?
+
+RQ: "Can we predict how long a student will look at feedback from different student characteristics and/or play behavior"
 
 C. Make your first visualization
+
+```{r}
+```
